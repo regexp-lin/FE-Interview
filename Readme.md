@@ -5,6 +5,7 @@
 - 准备找工作的同学 
 - 面试官
 - 欢迎大家提issue，一起共建这个面试题库 
+- 面试题会不定期汇总，也可以给我Pull Request
 
 ## 如何提issue
 大家可以在 【[Issue](https://github.com/regexp-lin/FE-Interview/issues)】上通过提交Issue的形式提交日常遇到的笔试面试题，无论是多"高端"或者多"低级"。
